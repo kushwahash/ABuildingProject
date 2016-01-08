@@ -28,6 +28,10 @@ PRIMARY KEY (B_Id,Name)
 
 5. You can also import the project, do the database changes and try to run it directly from the IDE.
 
+6. Please note, I have not done any JavaScrpt validation till now on the forms. So the project can throw exception. Also, the search functionality work based on the name of the buildings.
+
+7. I will improve the project during the weekend.
+
  
 
 
